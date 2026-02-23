@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/2025/">
+    <Project Path="src/AdventOfCode.Common/AdventOfCode.Common.csproj" />
+  </Folder>
+  <Folder Name="/2025/Day 1/">
+    <Project Path="src/AdventOfCode.SecretEntrance/AdventOfCode.SecretEntrance.csproj" />
+    <Project Path="tests/AdventOfCode.SecretEntrance.UnitTests/AdventOfCode.SecretEntrance.UnitTests.csproj" />
+  </Folder>
+</Solution>
